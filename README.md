@@ -17,3 +17,4 @@ Can be used for Meshtastic.
 https://meshtastic.org/
 
 VSWR Looks good at around 1.208
+![20240121_194040](https://github.com/catalinalb/LoRa-868MHz-6-Elements-Yagi-Antenna/assets/24923533/9a3df57e-bf0b-4064-84c0-217256b63d21)
