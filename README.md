@@ -3,6 +3,8 @@
 
 ![image](https://github.com/catalinalb/LoRa-868MHz-6-Elements-Yagi-Antenna/assets/24923533/af64d6c1-33d2-403a-8bdd-fbd720f32d72)
 
+![image](https://github.com/catalinalb/LoRa-868MHz-6-Elements-Yagi-Antenna/assets/24923533/f90e8c3c-61f3-482b-9dbc-164066cd7dca)
+
 
 Created from 2 pieces in order to fit into 256x256 Bed.
 Elements are from Copper Pipe with diameter of 4mm
