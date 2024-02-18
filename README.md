@@ -1,6 +1,6 @@
 3D Printed Yagi Antenna for 868MHz. 
 This model is based on the calculations of Mr. Nikolay Bolshakov RA3TOX:
-![image](https://github.com/catalinalb/LoRa-868MHz-6-Elements-Yagi-Antenna/assets/24923533/60bc98a3-33e9-4516-afdf-6eb1e77bb921)
+![image](https://github.com/catalinalb/LoRa-868MHz-6-Elements-Yagi-Antenna/assets/24923533/751ca485-dd23-4a3d-885a-2c88a8e854df)
 
 ![image](https://github.com/catalinalb/LoRa-868MHz-6-Elements-Yagi-Antenna/assets/24923533/8da50341-672d-4283-8003-05f2b70edb8e)
 
